@@ -21,3 +21,7 @@
 [콤보박스(드롭다운 박스) 만들기](https://hianna.tistory.com/322)
 
 [메시지 전송 API](https://smartsms.aligo.in/smsapi.html)
+
+[로그인 암호화](https://victorydntmd.tistory.com/33)
+
+[로그인 쿠키사용](https://victorydntmd.tistory.com/35)
